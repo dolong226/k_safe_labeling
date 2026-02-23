@@ -1,0 +1,17 @@
+instance,n,m,k,UB,span,time,variables,clauses,solver,status
+instance1.txt,10,15,15,80,33,0.03,2400,6440,Cadical195,SAT
+instance2.txt,12,20,25,107,53,0.04,3852,10652,Cadical195,SAT
+instance3.txt,12,40,20,107,83,0.08,3852,12792,Cadical195,SAT
+instance4.txt,15,30,29,211,63,0.08,9495,27581,Cadical195,SAT
+instance5.txt,18,60,20,189,83,0.13,10206,34326,Cadical195,SAT
+instance6.txt,20,25,12,119,26,0.04,7140,19079,Cadical195,SAT
+instance7.txt,20,100,13,128,68,1.04,7680,30128,Cadical195,SAT
+instance8.txt,25,30,15,193,33,0.08,14475,38693,Cadical195,SAT
+instance9.txt,25,150,20,253,123,1.77,18975,81113,Cadical195,SAT
+instance10.txt,25,250,23,333,256,305.26,24975,140093,Cadical195,SAT
+instance11.txt,30,100,50,716,158,4.46,64440,218976,Cadical195,SAT
+instance12.txt,33,200,50,817,256,190.05,80883,348727,Cadical195,SAT
+instance13.txt,35,500,30,586,428,600.06,61530,434086,Cadical195,TIMEOUT
+instance14.txt,40,300,30,620,186,600.11,74400,356960,Cadical195,TIMEOUT
+instance15.txt,45,150,4,111,45,0.11,14985,50991,Cadical195,SAT
+instance16.txt,50,600,45,1150,374,600.11,172500,1087700,Cadical195,TIMEOUT
