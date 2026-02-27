@@ -26,7 +26,7 @@ consistently outperform a direct SAT encoding.
 ## Repository structure
 - `dataset`: Graph instance files used for experiments.
    Each file follows a plain text format:
-  - Line 1: `n m k opt` (number of vertices, edges, k value, optimal span)
+  - Line 1: `n m k UB` (number of vertices, edges, k value, upper bound)
   - Following lines: edge list as `u v` pairs
 
 - `source`: Source code files for the encoding methods and configurable features.
